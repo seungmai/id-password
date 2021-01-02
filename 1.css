@@ -1,0 +1,31 @@
+/* 안보고 복습 */
+.wrap {
+  width: 300px;
+  margin: auto;
+  /* 중앙으로 배치 */
+}
+
+.wrap_title {
+  width: 300px;
+  height: 200px;
+  background-color: #29252d;
+  text-align: center;
+  /* 문자열 중앙으로 배치 */
+  background-image: url(assets/police-869216_1920.jpg);
+  background-size: cover;
+  /* 이미지 크기에 맞게 맞춤 */
+  /* background에 사진 첨부 */
+  background-position: center;
+  /* background 사진 중앙으로 배치 */
+  border-radius: 10px;
+  padding-top: 50px;
+  /* padding 위에서 떨어진 px값 */
+}
+
+.wrap_Btn {
+  background-color: #5e5e69;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+  color: #fff;
+}
